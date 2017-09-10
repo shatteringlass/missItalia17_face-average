@@ -54,7 +54,7 @@ Averaging Miss Italia finalists' faces just for the sake of it
 
 <table>
   <tr>
-    <td rowspan="3">Finaliste 2016</td>
+    <td rowspan="4">Finaliste 2016</td>
     <td><img src="jpg/2016/crop/01.jpg" height="50px"></td>
     <td><img src="jpg/2016/crop/02.jpg" height="50px"></td>
     <td><img src="jpg/2016/crop/03.jpg" height="50px"></td>
@@ -65,7 +65,7 @@ Averaging Miss Italia finalists' faces just for the sake of it
     <td><img src="jpg/2016/crop/08.jpg" height="50px"></td>
     <td><img src="jpg/2016/crop/09.jpg" height="50px"></td>
     <td><img src="jpg/2016/crop/10.jpg" height="50px"></td>
-    <td rowspan="3"><img src="result-2016.png" height="150px"></td>
+    <td rowspan="4"><img src="result-2016.png" height="150px"></td>
   </tr>
   <tr>
     <td><img src="jpg/2016/crop/11.jpg" height="50px"></td>
